@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
   "version": "1.0.6",
-  "publishedAt": "2026-09-24T16:02:20+08:00",
-  "notes": "双滚动条修复；开屏检查固定3秒，下载安装约3秒",
+  "publishedAt": "2026-09-24T16:05:04+08:00",
+  "notes": "双滚动条修复；开屏检查固定3秒，下载安装约3秒；更新源改 GitHub Pages",
   "file": "releases/MiniNotebook_1.0.6.exe",
-  "sha256": "1058c88d48288883f2a083dceb211bc5d59508f8c47ea25b294acaa6e3b88910"
+  "sha256": "0dea0bc2ad1a3e28d6626f3195d30449ae9eab18986ea446b6a62e73c659c3c1"
 }
