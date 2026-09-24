@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.2",
-  "publishedAt": "2026-09-24T15:06:00+08:00",
-  "notes": "检查更新按钮；托盘与收起逻辑修复",
-  "file": "releases/MiniNotebook_1.0.2.exe",
-  "sha256": "F3E973A70DDD99C3F3A148310AD16B8704CE3039D59306BFBA852A1B343ED569"
+  "version": "1.0.3",
+  "publishedAt": "2026-09-24T15:37:44+0800",
+  "notes": "在线更新：5秒开屏内下载到_更新并安装",
+  "file": "releases/MiniNotebook_1.0.3.exe",
+  "sha256": "12EEA3ECD3C7CD1BC1225A5871F62B47461ABE4971128D34C5BE0E1372BC8282"
 }
