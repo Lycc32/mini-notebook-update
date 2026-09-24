@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.8",
-  "publishedAt": "2026-09-24T16:37:29+0800",
-  "notes": "三段进度条（检查/下载/安装）；修卡住叠窗；行内详情按钮；单击选中+Del",
-  "file": "releases/MiniNotebook_1.0.8.exe",
-  "sha256": "529868E39FD949F24D076ECEE27D1B125F754D90C1C15FE25FB1C7357C73EF05"
+  "version": "1.0.9",
+  "publishedAt": "2026-09-24T16:44:31+0800",
+  "notes": "去掉自定义滚动条叠画防闪；单击选中+Del；安装强制结束旧进程防叠窗",
+  "file": "releases/MiniNotebook_1.0.9.exe",
+  "sha256": "49F1ED67B9B3E3D3F46125D90A87EA626789F497F923528EA0587FC4151696CE"
 }
