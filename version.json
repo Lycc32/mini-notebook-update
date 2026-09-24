@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.9",
-  "publishedAt": "2026-09-24T16:44:31+0800",
-  "notes": "去掉自定义滚动条叠画防闪；单击选中+Del；安装强制结束旧进程防叠窗",
-  "file": "releases/MiniNotebook_1.0.9.exe",
-  "sha256": "49F1ED67B9B3E3D3F46125D90A87EA626789F497F923528EA0587FC4151696CE"
+  "version": "1.0.10",
+  "publishedAt": "2026-09-24T16:48:28+0800",
+  "notes": "点选待办只重绘新旧两行，合成缓冲防整表闪烁",
+  "file": "releases/MiniNotebook_1.0.10.exe",
+  "sha256": "C091F698EE836E92CAB1AF78D16174FF2318E9B41598E99EB827E9AF5D6BFAC3"
 }
