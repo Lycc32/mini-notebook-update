@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.5",
-  "publishedAt": "2026-09-24T15:52:59+0800",
-  "notes": "开屏下载/安装进度平滑缓动；分发仅保留小笔记本.exe；清理重复版本包",
-  "file": "releases/MiniNotebook_1.0.5.exe",
-  "sha256": "BA2A795DE25AC3C268DE60EEBFD7CE8BDACDDF34BCD9B78922A280B91D40D92A"
+  "version": "1.0.6",
+  "publishedAt": "2026-09-24T16:02:20+08:00",
+  "notes": "双滚动条修复；开屏检查固定3秒，下载安装约3秒",
+  "file": "releases/MiniNotebook_1.0.6.exe",
+  "sha256": "1058c88d48288883f2a083dceb211bc5d59508f8c47ea25b294acaa6e3b88910"
 }
