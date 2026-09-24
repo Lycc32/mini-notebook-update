@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.10",
-  "publishedAt": "2026-09-24T16:48:28+0800",
-  "notes": "点选待办只重绘新旧两行，合成缓冲防整表闪烁",
-  "file": "releases/MiniNotebook_1.0.10.exe",
-  "sha256": "C091F698EE836E92CAB1AF78D16174FF2318E9B41598E99EB827E9AF5D6BFAC3"
+  "version": "1.0.11",
+  "publishedAt": "2026-09-24T16:55:16+0800",
+  "notes": "修复创建窗口句柄崩溃（去掉列表 COMPOSITED）；保留点选只刷新新旧行",
+  "file": "releases/MiniNotebook_1.0.11.exe",
+  "sha256": "E4A3C8C3E21ADE81EE973D0D8E5D1039F6799334CDDE1BF0EE6730F6786E23BE"
 }
