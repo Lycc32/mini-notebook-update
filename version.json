@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.36",
-  "publishedAt": "2026-09-27T15:16:44+08:00",
-  "notes": "一键拉取改为 Git 克隆：设置里填 SSH/仓库地址、父文件夹与目录名，后台 git clone（无黑框，用本机 Git+SSH）；快捷页可一键拉取。",
-  "file": "releases/MiniNotebook_1.0.36.exe",
-  "sha256": "73428C35D82EBF53F357B7C46E01E2E17D86E08C6530636D345741455C8782B3"
+  "version": "1.0.37",
+  "publishedAt": "2026-09-27T15:23:37+08:00",
+  "notes": "一键拉取：失败显示真实 git 报错（不再只显示帮助尾巴）；粘贴整行 git clone 可自动识别地址；优先 bin\\git.exe。",
+  "file": "releases/MiniNotebook_1.0.37.exe",
+  "sha256": "F51E98BCFA51614ECB81AFC0B9508B965D9F4D7C14E376EDEB14823746A3BE59"
 }
