@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.40",
-  "publishedAt": "2026-09-27T15:50:42+08:00",
-  "notes": "精致开机动画（暗幕+单柔光+发丝下划线+细圆环进度）；网址快捷可加备注；拖宽实时跟随鼠标。",
-  "file": "releases/MiniNotebook_1.0.40.exe",
-  "sha256": "5479E009E36D0FA945A5CB531BAFFCFD7A08B2911A99AC25FEA57DCD20FB97B5"
+  "version": "1.0.41",
+  "publishedAt": "2026-09-27T15:57:16+08:00",
+  "notes": "拖窗跟手轻量实时排版；开屏品牌极简旋转环",
+  "file": "releases/MiniNotebook_1.0.41.exe",
+  "sha256": "6B66C2480939A067B37D59F781D9BD92BCEF5D07169113632278BA78A276268A"
 }
