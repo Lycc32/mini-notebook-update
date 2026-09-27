@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.45",
-  "publishedAt": "2026-09-27T16:21:15+08:00",
-  "notes": "检查/下载/安装恢复大号百分比；修复仅有version无安装包时空转；保留3.5s开屏与更新防卡死",
-  "file": "releases/MiniNotebook_1.0.45.exe",
-  "sha256": "E8EEED21505E4E18E1D40682EAEEFF6EE5C77911098090D0828D21B541D6285F"
+  "version": "1.0.46",
+  "publishedAt": "2026-09-27T16:25:30+08:00",
+  "notes": "开屏中间标题改为签名/艺术字（行楷手写体优先）；保留百分比更新流程",
+  "file": "releases/MiniNotebook_1.0.46.exe",
+  "sha256": "F70C4F225CB2435FC22EFBEBED04737732CB162953D4C49037525D1058B721DE"
 }
