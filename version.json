@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.46",
-  "publishedAt": "2026-09-27T16:25:30+08:00",
-  "notes": "开屏中间标题改为签名/艺术字（行楷手写体优先）；保留百分比更新流程",
-  "file": "releases/MiniNotebook_1.0.46.exe",
-  "sha256": "F70C4F225CB2435FC22EFBEBED04737732CB162953D4C49037525D1058B721DE"
+  "version": "1.0.48",
+  "publishedAt": "2026-09-27T16:36:02+08:00",
+  "notes": "开屏4.8s强化：螺旋粒子+能量环+三层扫光；文字节奏平移；冲击波/网格按性能",
+  "file": "releases/MiniNotebook_1.0.48.exe",
+  "sha256": "B32D7570EDDD33A79FDF0D84A48D9725E576480B9727731CFFB2458C2F94E95C"
 }
