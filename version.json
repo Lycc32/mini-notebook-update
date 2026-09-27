@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.41",
-  "publishedAt": "2026-09-27T15:57:56+08:00",
-  "notes": "开屏改为品牌极简+旋转细环；拖窗仅外壳跟宽，松手再全排。",
-  "file": "releases/MiniNotebook_1.0.41.exe",
-  "sha256": "A362155ADD0F24E76129667E7B8EAF4D6745729E64C4D2A09033007473424B3D"
+  "version": "1.0.42",
+  "publishedAt": "2026-09-27T16:00:17+08:00",
+  "notes": "拖窗跟手实时排版（非松手再排）；开屏极简旋转环",
+  "file": "releases/MiniNotebook_1.0.42.exe",
+  "sha256": "007220D82AB224883E0ACED58039BA4699B8F21049B027EEC88D3C4DBF4EE109"
 }
