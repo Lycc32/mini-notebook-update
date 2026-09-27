@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.14",
-  "publishedAt": "2026-09-27T09:41:10+0800",
-  "notes": "启用截止勾选更醒目；智能解析改为录入区开关；在线更新更稳（防缓存、重试、失败可点重试）；空状态插画修复；点击不再闪；小精灵眼睛更短更方",
-  "file": "releases/MiniNotebook_1.0.14.exe",
-  "sha256": "C19704CE621C01CBBF7E4DFB43B46F38F36E32D487FD857DC6783AC5209247F1"
+  "version": "1.0.15",
+  "publishedAt": "2026-09-27T09:44:23+0800",
+  "notes": "程序目录整理（顶层只留 exe 与 _更新）；固定按钮不再闪；设置页新增关于；含 1.0.14 全部改进",
+  "file": "releases/MiniNotebook_1.0.15.exe",
+  "sha256": "E76C1219DBC459B0C3CB9421490E5FC6D2955AD2200D5C9D064B81C3BA4AD601"
 }
