@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.34",
-  "publishedAt": "2026-09-27T14:34:15+08:00",
-  "notes": "开屏约4s动态+便携_data+设置页更新状态叠字修复",
-  "file": "releases/MiniNotebook_1.0.34.exe",
-  "sha256": "FFDDB2E8F5A571C2FA0A4513212EA41BB686510FF7CA5708D57363A9D53B9A56"
+  "version": "1.0.35",
+  "publishedAt": "2026-09-27T14:45:33+08:00",
+  "notes": "冷启动欢迎后先进屋、自动更新后台化；镜像超时约3.8s；LastUpdateMirror优先；已是最新立刻结束",
+  "file": "releases/MiniNotebook_1.0.35.exe",
+  "sha256": "8336D415AA41708AD367B86990896C977FCC19116EE462BCD1F87845C4F1142A"
 }
