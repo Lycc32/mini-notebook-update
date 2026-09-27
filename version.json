@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.30",
-  "publishedAt": "2026-09-27T14:01:50+08:00",
-  "notes": "欢迎克制开屏；待办导出MD/导入合并替换；快捷文件夹与软件分区",
-  "file": "releases/MiniNotebook_1.0.30.exe",
-  "sha256": "4AAEDED4EAB591F984749576142F7237A5F3625F217042E89314EDA4BB597997"
+  "version": "1.0.31",
+  "publishedAt": "2026-09-27T14:09:54+08:00",
+  "notes": "息屏改 PostMessage+延迟防抖；关闭显示器移到底部；欢迎开屏约3.8s错峰重做",
+  "file": "releases/MiniNotebook_1.0.31.exe",
+  "sha256": "B3FE9D3FD4A1730CF9A848A0166C8D2EB34791D1EE9F94DEAAF067DCB7E555C3"
 }
