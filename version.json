@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.32",
-  "publishedAt": "2026-09-27T14:13:48+08:00",
-  "notes": "自动更新多镜像：Pages→raw→jsDelivr→fastly；慢时切换镜像；同base下载+SHA256",
-  "file": "releases/MiniNotebook_1.0.32.exe",
-  "sha256": "9C012EE7FE44BF0B04E71033E1333D054E1E9144ED9C6A9352D73E228CA10F22"
+  "version": "1.0.33",
+  "publishedAt": "2026-09-27T14:26:52+08:00",
+  "notes": "开屏极简+录入提示+批量待办+更新状态可见+底栏分栏+托盘单击",
+  "file": "releases/MiniNotebook_1.0.33.exe",
+  "sha256": "953E69A586B30E9E0F5563DDC400E363891649B4DE9548727A50FFA99FEB19A1"
 }
