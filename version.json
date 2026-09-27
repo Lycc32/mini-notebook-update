@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.25",
-  "publishedAt": "2026-09-27T11:56:05+0800",
-  "notes": "面板加宽可拖调；智能解析完整显示；开屏线条飞入能量球；录入卡片微调",
-  "file": "releases/MiniNotebook_1.0.25.exe",
-  "sha256": "59B95CDCBFC2482055C7274B03EAA6A02D40B671F05B8CD62F8DF3572905BA55"
+  "version": "1.0.26",
+  "publishedAt": "2026-09-27T13:16:35+0800",
+  "notes": "开屏更丝滑；侧栏快捷文件夹；检查更新文字钮；拖宽节流；深色菜单；小精灵常开；待办路径；快捷键网格选键",
+  "file": "releases/MiniNotebook_1.0.26.exe",
+  "sha256": "27B4275D4C23AB1A9F7A51E4EF9BBE3D61955EAB39B32FCC7ECC03EDC908FAB2"
 }
