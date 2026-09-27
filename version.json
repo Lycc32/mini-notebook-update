@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.31",
-  "publishedAt": "2026-09-27T14:09:54+08:00",
-  "notes": "息屏改 PostMessage+延迟防抖；关闭显示器移到底部；欢迎开屏约3.8s错峰重做",
-  "file": "releases/MiniNotebook_1.0.31.exe",
-  "sha256": "B3FE9D3FD4A1730CF9A848A0166C8D2EB34791D1EE9F94DEAAF067DCB7E555C3"
+  "version": "1.0.32",
+  "publishedAt": "2026-09-27T14:13:48+08:00",
+  "notes": "自动更新多镜像：Pages→raw→jsDelivr→fastly；慢时切换镜像；同base下载+SHA256",
+  "file": "releases/MiniNotebook_1.0.32.exe",
+  "sha256": "9C012EE7FE44BF0B04E71033E1333D054E1E9144ED9C6A9352D73E228CA10F22"
 }
