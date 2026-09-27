@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.39",
-  "publishedAt": "2026-09-27T15:44:27+08:00",
-  "notes": "快捷页改为文件夹/软件/网址三入口再进分区；待办筛选行随宽度重排，修复缩窄时排序 SoftPill 与完成芯片叠图残影。",
-  "file": "releases/MiniNotebook_1.0.39.exe",
-  "sha256": "BB19D334B4AD6775E33DD07EC514775E9447C6F66B2FEE38505D63370A6E05A2"
+  "version": "1.0.40",
+  "publishedAt": "2026-09-27T15:50:42+08:00",
+  "notes": "精致开机动画（暗幕+单柔光+发丝下划线+细圆环进度）；网址快捷可加备注；拖宽实时跟随鼠标。",
+  "file": "releases/MiniNotebook_1.0.40.exe",
+  "sha256": "5479E009E36D0FA945A5CB531BAFFCFD7A08B2911A99AC25FEA57DCD20FB97B5"
 }
