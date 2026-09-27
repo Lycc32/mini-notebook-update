@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.28",
-  "publishedAt": "2026-09-27T13:38:39+0800",
-  "notes": "每次启动欢迎动画；录入栏自适应；快捷键修饰键/主键分行不叠图",
-  "file": "releases/MiniNotebook_1.0.28.exe",
-  "sha256": "B3F3A0CB8E472E151B935D625D497B804D9A00006FBDAB7CDF9C85895D118722"
+  "version": "1.0.29",
+  "publishedAt": "2026-09-27T13:51:30+0800",
+  "notes": "检查更新按钮可见；欢迎动画更丝滑；时间点选；快捷文件夹+软件；一键息屏",
+  "file": "releases/MiniNotebook_1.0.29.exe",
+  "sha256": "6DE8C9F9AA9F0F5F6557CF452B53EC83F5510A0DD91F2C977700D5063D9F7B57"
 }
