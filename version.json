@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.42",
-  "publishedAt": "2026-09-27T16:00:17+08:00",
-  "notes": "拖窗跟手实时排版（非松手再排）；开屏极简旋转环",
-  "file": "releases/MiniNotebook_1.0.42.exe",
-  "sha256": "007220D82AB224883E0ACED58039BA4699B8F21049B027EEC88D3C4DBF4EE109"
+  "version": "1.0.43",
+  "publishedAt": "2026-09-27T16:06:04+08:00",
+  "notes": "更新安装防卡死：暂存统一改名小笔记本.exe；失败记标记并停止空转；清外层版号exe",
+  "file": "releases/MiniNotebook_1.0.43.exe",
+  "sha256": "745F7E17C9A3B997C4661348C8AB4B12D87A04DBDE6DF104C69FD1C35EB66E38"
 }
