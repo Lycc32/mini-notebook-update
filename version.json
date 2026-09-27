@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.13",
-  "publishedAt": "2026-09-27T09:28:25+0800",
-  "notes": "修复加班费页与详情返回后列表残影；深色月历弹层；分类改为深色下拉；更新页去掉步骤编号",
-  "file": "releases/MiniNotebook_1.0.13.exe",
-  "sha256": "3EA2550E3435FEDF8DAEEC683069D3354EFE4F2DECADE9438058589F47469F91"
+  "version": "1.0.14",
+  "publishedAt": "2026-09-27T09:41:10+0800",
+  "notes": "启用截止勾选更醒目；智能解析改为录入区开关；在线更新更稳（防缓存、重试、失败可点重试）；空状态插画修复；点击不再闪；小精灵眼睛更短更方",
+  "file": "releases/MiniNotebook_1.0.14.exe",
+  "sha256": "C19704CE621C01CBBF7E4DFB43B46F38F36E32D487FD857DC6783AC5209247F1"
 }
