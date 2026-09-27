@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.23",
-  "publishedAt": "2026-09-27T11:32:00+0800",
-  "notes": "侧栏切换待办/加班费；顶栏标题可改；设置去掉智能解析与检查更新按钮；自动更新关→开即开屏检测",
-  "file": "releases/MiniNotebook_1.0.23.exe",
-  "sha256": "59D030B70BB1B87F94715FFE0E6C176B92EAAF36212FD0F52E58532E9D82C08E"
+  "version": "1.0.24",
+  "publishedAt": "2026-09-27T11:48:51+0800",
+  "notes": "开机首次欢迎动画；自动更新开则动画后再检测；修智能解析叠图；底栏展开更跟手",
+  "file": "releases/MiniNotebook_1.0.24.exe",
+  "sha256": "AC7404CD1BEF6F18622753173A22243E7FFC4336FF8849C67E08C05DA5D097EA"
 }
