@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.26",
-  "publishedAt": "2026-09-27T13:16:35+0800",
-  "notes": "开屏更丝滑；侧栏快捷文件夹；检查更新文字钮；拖宽节流；深色菜单；小精灵常开；待办路径；快捷键网格选键",
-  "file": "releases/MiniNotebook_1.0.26.exe",
-  "sha256": "27B4275D4C23AB1A9F7A51E4EF9BBE3D61955EAB39B32FCC7ECC03EDC908FAB2"
+  "version": "1.0.27",
+  "publishedAt": "2026-09-27T13:30:09+0800",
+  "notes": "欢迎飞线与更新进度分离；快捷独立页；页面显隐；菜单强化；缩窄自适应禁横滚",
+  "file": "releases/MiniNotebook_1.0.27.exe",
+  "sha256": "0FEF6A6A3D5AA12AE4FDA3B22EC60AC5A547608107EDDCEAE279D07339BB090A"
 }
