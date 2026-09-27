@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
   "version": "1.0.43",
-  "publishedAt": "2026-09-27T16:06:04+08:00",
-  "notes": "更新安装防卡死：暂存统一改名小笔记本.exe；失败记标记并停止空转；清外层版号exe",
+  "publishedAt": "2026-09-27T16:09:32+08:00",
+  "notes": "开机动画按3.5s大纲重做（暗场粒子汇聚+扫光揭示）；更新安装防卡死：暂存统一改名小笔记本.exe；失败记标记并停止空转；超时失败提示收起；清外层版号exe",
   "file": "releases/MiniNotebook_1.0.43.exe",
-  "sha256": "745F7E17C9A3B997C4661348C8AB4B12D87A04DBDE6DF104C69FD1C35EB66E38"
+  "sha256": "7AA0FD698B45AC702D81B70E6445FC8C2C801BBFAAB34478443214C40EDF1BC8"
 }

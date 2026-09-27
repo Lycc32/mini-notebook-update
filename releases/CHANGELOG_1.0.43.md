@@ -1,9 +1,6 @@
 # 1.0.43
 
-更新安装防卡死硬化：
-
-- 暂存目录统一主程序名为运行中的小笔记本.exe（NormalizeStagedMainExe）
-- 安装失败写 _更新/安装失败.txt 并将 version.txt 拉回本机版本，停止空转
-- 更安全的主程序 copy 替换（失败则启动旧版）
-- 外层误落的 MiniNotebook_*.exe 自动挪进 _build
-- 远程出现更高版本时清除失败标记，允许再次安装
+- 开机欢迎动画按 3.5s 大纲重做：暗场粒子汇聚 + 标题扫光揭示 + 余韵淡出
+- 更新安装防卡死：NormalizeStagedMainExe；安装失败标记并停止空转
+- 检查/下载/安装路径硬超时失败提示并收起，避免假进度空转
+- 外层 MiniNotebook_*.exe 自动挪进 _build
