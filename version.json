@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.22",
-  "publishedAt": "2026-09-27T11:13:56+0800",
-  "notes": "修复：收起/展开底部录入栏后，「待办 x · 显示 y · 共 z」提示行在旧位置留下残影（出现两行）；加班费页底部汇总行同样处理",
-  "file": "releases/MiniNotebook_1.0.22.exe",
-  "sha256": "8406704D011F4AB18AF1959AFB1E420CB2A1D34812F2B1178FFD2136F6C08428"
+  "version": "1.0.23",
+  "publishedAt": "2026-09-27T11:32:00+0800",
+  "notes": "侧栏切换待办/加班费；顶栏标题可改；设置去掉智能解析与检查更新按钮；自动更新关→开即开屏检测",
+  "file": "releases/MiniNotebook_1.0.23.exe",
+  "sha256": "59D030B70BB1B87F94715FFE0E6C176B92EAAF36212FD0F52E58532E9D82C08E"
 }
