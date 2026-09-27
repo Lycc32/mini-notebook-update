@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.37",
-  "publishedAt": "2026-09-27T15:23:37+08:00",
-  "notes": "一键拉取：失败显示真实 git 报错（不再只显示帮助尾巴）；粘贴整行 git clone 可自动识别地址；优先 bin\\git.exe。",
-  "file": "releases/MiniNotebook_1.0.37.exe",
-  "sha256": "F51E98BCFA51614ECB81AFC0B9508B965D9F4D7C14E376EDEB14823746A3BE59"
+  "version": "1.0.38",
+  "publishedAt": "2026-09-27T15:35:09+08:00",
+  "notes": "移除一键拉取；快捷页新增网址分区与顶部搜索栏（文件夹/软件/网址三分区）。",
+  "file": "releases/MiniNotebook_1.0.38.exe",
+  "sha256": "934B8B427E04964897BE1FB7300D8F3906AD9148847F4C35B901371289BAFA7B"
 }
