@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.44",
-  "publishedAt": "2026-09-27T16:17:13+08:00",
-  "notes": "欢迎动画对齐AE大纲3.50s（蓄势/汇聚/扫光揭示/余韵/淡出）；标题用显示名EffectiveDisplayTitle；署名右下角2.50–2.80s淡入；冷青粒~64无叠图；保留更新防卡死",
-  "file": "releases/MiniNotebook_1.0.44.exe",
-  "sha256": "04580E541ABEBED9956B59D7E6DA1EBA84F6EBE72F230D5F8801031922542053"
+  "version": "1.0.45",
+  "publishedAt": "2026-09-27T16:21:15+08:00",
+  "notes": "检查/下载/安装恢复大号百分比；修复仅有version无安装包时空转；保留3.5s开屏与更新防卡死",
+  "file": "releases/MiniNotebook_1.0.45.exe",
+  "sha256": "E8EEED21505E4E18E1D40682EAEEFF6EE5C77911098090D0828D21B541D6285F"
 }
