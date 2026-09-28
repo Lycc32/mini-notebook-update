@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.55",
-  "publishedAt": "2026-09-28T10:07:44+08:00",
-  "notes": "待办日程月视图：横向起止条，可翻月点击查看",
-  "file": "releases/MiniNotebook_1.0.55.exe",
-  "sha256": "5C7793324846EC988B1BA8FA3BC163C131E62482A5DDD00158A6763F257D207E"
+  "version": "1.0.56",
+  "publishedAt": "2026-09-28T10:11:35+08:00",
+  "notes": "保存后自动备份：节流静默zip至_data\\_backups",
+  "file": "releases/MiniNotebook_1.0.56.exe",
+  "sha256": "E4E1F54FEE885DD15119399B36D2DF85C010A9E3E50F34FFE318E7A75259ED06"
 }
