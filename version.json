@@ -1,8 +1,8 @@
 {
-  "name": "小笔记本",
-  "version": "1.0.56",
-  "publishedAt": "2026-09-28T10:11:35+08:00",
-  "notes": "保存后自动备份：节流静默zip至_data\\_backups",
-  "file": "releases/MiniNotebook_1.0.56.exe",
-  "sha256": "E4E1F54FEE885DD15119399B36D2DF85C010A9E3E50F34FFE318E7A75259ED06"
+ "name": "小笔记本",
+ "version": "1.0.57",
+ "publishedAt": "2026-09-28T10:18:13+08:00",
+ "notes": "日程无截止按起始日→今天（未来起始给一周宽度）；临近截止变红；保留1.0.56保存后自动备份",
+ "file": "releases/MiniNotebook_1.0.57.exe",
+ "sha256": "E41E0B31CE4A66D44CED79F38B7BA8FA5BBBFD204A275A0401230D261F3CCE7E"
 }
