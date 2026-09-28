@@ -1,8 +1,8 @@
 {
   "name": "小笔记本",
-  "version": "1.0.48",
-  "publishedAt": "2026-09-27T16:36:02+08:00",
-  "notes": "开屏4.8s强化：螺旋粒子+能量环+三层扫光；文字节奏平移；冲击波/网格按性能",
-  "file": "releases/MiniNotebook_1.0.48.exe",
-  "sha256": "B32D7570EDDD33A79FDF0D84A48D9725E576480B9727731CFFB2458C2F94E95C"
+  "version": "1.0.55",
+  "publishedAt": "2026-09-28T10:07:44+08:00",
+  "notes": "待办日程月视图：横向起止条，可翻月点击查看",
+  "file": "releases/MiniNotebook_1.0.55.exe",
+  "sha256": "5C7793324846EC988B1BA8FA3BC163C131E62482A5DDD00158A6763F257D207E"
 }
